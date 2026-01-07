@@ -1,4 +1,4 @@
-\# Physics Test Slopes
+# Physics Test Slopes
 
 
 
@@ -10,5 +10,5 @@ You need access to Jai to compile the program... Sorry!
 
 
 
-!\[Screenshot of the program](https://github.com/alexover1/physics\_test\_slopes/blob/main/screenshot.png?raw=true)
+![Screenshot of the program](https://github.com/alexover1/physics_test_slopes/blob/main/screenshot.png?raw=true)
 
