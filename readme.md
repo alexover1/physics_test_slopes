@@ -10,7 +10,5 @@ You need access to Jai to compile the program... Sorry!
 
 
 
-!\[Screenshot of the program](screenshot.png)
-
-
+!\[Screenshot of the program](./screenshot.png)
 
