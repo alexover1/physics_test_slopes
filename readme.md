@@ -10,5 +10,5 @@ You need access to Jai to compile the program... Sorry!
 
 
 
-!\[Screenshot of the program](./screenshot.png)
+!\[Screenshot of the program](https://github.com/alexover1/physics\_test\_slopes/blob/main/screenshot.png?raw=true)
 
